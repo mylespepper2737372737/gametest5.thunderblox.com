@@ -1,0 +1,71 @@
+/* ~/CSS/YUIReset.css */
+/*
+Copyright (c) 2011, Yahoo! Inc. All rights reserved.
+Code licensed under the BSD License:
+http://developer.yahoo.com/yui/license.html
+version: 2.9.0
+*/
+html {
+    color:#000;background:#FFF
+}
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,button,textarea,select,p,blockquote,th,td {
+    margin:0;padding:0
+}
+table {
+    border-collapse:collapse;border-spacing:0
+}
+fieldset,img {
+    border:0
+ }
+address,button,caption,cite,code,dfn,em,input,optgroup,option,select,strong,textarea,th,var {
+    font:inherit
+}
+del,ins {
+    text-decoration:none
+}
+li {
+    list-style:none
+}
+caption,th {
+    text-align:left
+}
+h1,h2,h3,h4,h5,h6 {
+    font-size:100%;font-weight:normal
+}
+q:before,q:after {
+    content:''
+}
+abbr,acronym {
+    border:0;font-variant:normal
+}
+sup {
+    vertical-align:baseline
+}
+sub {
+    vertical-align:baseline
+}
+legend {
+    color:#000
+}
+
+/*
+     FILE ARCHIVED ON 03:11:30 Sep 06, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:52:24 Jun 30, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 148.098
+  exclusion.robots: 0.095
+  exclusion.robots.policy: 0.089
+  RedisCDXSource: 3.415
+  esindex: 0.008
+  LoadShardBlock: 121.632 (3)
+  PetaboxLoader3.datanode: 88.504 (4)
+  CDXLines.iter: 19.653 (3)
+  load_resource: 88.887
+  PetaboxLoader3.resolve: 54.31
+*/
